@@ -12,9 +12,9 @@
 
 - 2.1.7.RELEASE JAVA8   
 
-<img src = "https://user-images.githubusercontent.com/38341106/96391087-7e151200-11f2-11eb-87a0-cca0d893f95e.png" width="70%">
+<img src = "https://user-images.githubusercontent.com/38341106/96391087-7e151200-11f2-11eb-87a0-cca0d893f95e.png" width="50%">
 
 #
 
-<img src = "https://user-images.githubusercontent.com/38341106/96391109-94bb6900-11f2-11eb-9058-3f466df369b5.png" width="70%">
+<img src = "https://user-images.githubusercontent.com/38341106/96391109-94bb6900-11f2-11eb-9058-3f466df369b5.png" width="50%">
 
